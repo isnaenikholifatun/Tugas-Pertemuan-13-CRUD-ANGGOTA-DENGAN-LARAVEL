@@ -7,16 +7,17 @@
 **Prodi:** Informatika  
 **Semester:** 4  
 **Mata Kuliah:** Pemrograman Web II  
-**Repository:** []
+**Repository:** [https://github.com/isnaenikholifatun/Tugas-Pertemuan-13-CRUD-ANGGOTA-DENGAN-LARAVEL]
 
 ---
 
-## Tugas 1 :Auto-Generate Kode Anggota
+## Tugas 1 Auto-Generate Kode Anggota
 ---
-**Fitur yang ditambahkan**
-Implementasi auto-generate kode anggota dengan format:
+**Fitur yang ditambahkan:**
+**Implementasi auto-generate kode anggota dengan format:**
 * `AGT-[TAHUN]-[NOMOR_URUT]`
-**Contoh**
+---
+#### contoh
 * AGT-2026-001
 * AGT-2026-002
 * AGT-2026-003
@@ -28,19 +29,19 @@ Implementasi auto-generate kode anggota dengan format:
 ---
 
 ## Tugas 2 : Export Anggota Ke Excel
----
 **fitur export data anggota ke file Excel menggunakan package Laravel Excel (maatwebsite/excel):**
+---
 #### Install Package:
 * `composer require maatwebsite/excel`
 ---
 #### Screenshoot Hasil Install
-[1.maatwebsite.excel](screenshots/maatwebsite.excel.png)
+![1.maatwebsite.excel](screenshots/maatwebsite.excel.png)
 ---
 
 #### Buat Export Class:
 * `php artisan make:export AnggotaExport --model=Anggota`
 #### Screenshoot Hasil Install
-[1.AnggotaExport](screenshots/AnggotaExport.png)
+![1.AnggotaExport](screenshots/AnggotaExport.png)
 ---
 
 #### Fitur Export CSV:
@@ -61,9 +62,9 @@ Implementasi auto-generate kode anggota dengan format:
 * Tanggal Daftar
 ---
 #### Screenshoot Hasil Tampilan Export CSV
-[1.TampilanCSV](screenshots/TampilanCSV.png)
+![1.TampilanCSV](screenshots/TampilanCSV.png)
 #### Screenshoot Hasil Export CSV
-[1.HasilExportCSV](screenshots/HasilExportCSV.png)
+![1.HasilExportCSV](screenshots/HasilExportCSV.png)
 
 
 ## Tugas 3 : Advanced Search & Filter
