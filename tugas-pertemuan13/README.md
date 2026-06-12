@@ -7,11 +7,11 @@
 **Prodi:** Informatika  
 **Semester:** 4  
 **Mata Kuliah:** Pemrograman Web II  
-**Repository:** [https://github.com/isnaenikholifatun/Tugas-Pertemuan-13-CRUD-ANGGOTA-DENGAN-LARAVEL]
+**Repository:** [https://github.com/isnaenikholifatun/Tugas-Pertemuan-13-CRUD-ANGGOTA-DENGAN-LARAVEL/tree/main/tugas-pertemuan13]
 
 ---
 
-## Tugas 1 Auto-Generate Kode Anggota
+## Tugas 1 : Auto-Generate Kode Anggota
 ---
 **Fitur yang ditambahkan:**
 **Implementasi auto-generate kode anggota dengan format:**
